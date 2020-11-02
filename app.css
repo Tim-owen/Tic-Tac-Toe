@@ -1,0 +1,50 @@
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    padding: 20px 10px;
+    width: 20%;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    padding: 20px 10px;
+    width: 40%;
+    text-align: center;
+}
+
+#reset {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15pt;
+    color: white;
+    border-radius: 25px;
+    padding: 20px 20px;
+    background-color: blue;
+}
+
+#container{
+    margin-left: 100px;
+}
+
+div div div{
+    color: grey;
+    font-size: 60pt;
+    background-color: grey;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 20px 20px;
+    border-radius: 25px;
+    display: inline-block;
+    resize: none;
+}
+
+div div div:hover {
+    cursor: pointer;
+}
