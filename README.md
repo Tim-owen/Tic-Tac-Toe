@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-![TicTacToe](tictactoe.png)
+![TicTacToe](resources/tictactoe.png)
